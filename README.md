@@ -8,8 +8,8 @@
 - 📫 How to reach me: Google ( Salahuddin Sawon) 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to HACK
-  
-I am a dedicated Cybersecurity student currently pursuing my Master’s degree, with a strong focus on protecting websites and systems from modern security threats.
+
+I hold a Master of Science in Computer Science and Engineering and have developed a strong foundation in technical problem-solving and analytical thinking. My academic journey at a reputable engineering university has equipped me with valuable skills in project management and innovative solutions. I thrive on tackling complex challenges and am eager to leverage my expertise for your projects with a strong focus on protecting websites and systems from modern security threats.
 
 I specialize in identifying vulnerabilities and helping clients improve their security through practical analysis and clear recommendations. I have hands-on experience with tools like Nmap and I regularly practice real-world scenarios on platforms such as TryHackMe.
 
